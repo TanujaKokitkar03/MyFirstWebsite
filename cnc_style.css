@@ -1,0 +1,118 @@
+h2{
+    font-family: 'Lobster', cursive;
+}
+
+.right{
+    color: darkblue !important;  
+    font-family: 'Lobster', cursive;  
+}
+
+.right p{
+    font-size: 24px !important;
+    margin-left: 250px !important; 
+} 
+
+.navbar{
+    background-color: aqua !important;
+}
+
+.navbar-nav{
+    margin-left: 250px;
+}
+
+.nav-item{
+    font-size: 28px;
+    color: darkblue !important;
+    font-family: 'Lobster', cursive;
+    margin-left: 60px;
+}
+
+.nav-link:hover{
+    text-decoration: underline !important;
+}
+
+.quote{
+    font-size: 35px;
+    font-family: 'Beau Rivage', cursive;
+    text-align: center;
+    color: darkblue;
+}
+
+.card{
+    background-color: aqua;
+    
+}
+
+.coursecard .card{
+    height: 530px;
+}
+
+.card-title{
+    text-align: center !important;
+    color: darkblue !important;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+.card-body i{
+    color: darkblue !important;
+    font-size: 20px;
+}
+
+.card-body p{
+    color: darkblue !important;
+    font-size: 20px;
+}
+
+.card-text{
+    color: rgb(68, 68, 244) !important;
+    font-size: 20px;
+}
+
+h3{
+    font-family: 'Lobster', cursive;
+    font-size: 35px !important;
+    text-align: center !important;
+    color: darkblue !important;
+}
+
+.list-group-item{
+    font-size: 20px;
+}
+
+.list-group-item:hover{
+    background-color: aqua !important;  
+}
+
+.footer{
+    background-color: aqua;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: darkblue !important;
+}
+
+.aboutbg{
+    background-color: rgb(96, 236, 236);
+    margin-top: 20px;
+}
+
+.para{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.form-text{
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+.submit{
+    background-color: aqua !important;
+    color: black;
+    border: 1px solid aqua;
+}
